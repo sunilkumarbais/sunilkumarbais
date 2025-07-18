@@ -6,10 +6,10 @@ I'm a passionate **Frontend Developer** and **Tech Enthusiast** who loves buildi
 
 ## 🔥 Skills & Technologies
 
-- **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS
+- **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS, EJS and Bootstrap
 - **Backend**: Node.js, Express.js
 - **Databases**: MongoDB
-- **Tools & Platforms**: Git, GitHub, VS Code, Figma, Hopscotch
+- **Tools & Platforms**: Git, GitHub, VS Code, Hopscotch
 - **Other**: API Integration, Responsive Design, UI/UX
 
 ## 📌 Projects
